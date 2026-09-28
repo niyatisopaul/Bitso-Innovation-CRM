@@ -1,0 +1,7 @@
+{
+  "autoBackupEnabled": true,
+  "frequencyHours": 6,
+  "maxSnapshotsRetention": 20,
+  "lastBackupAt": "2026-09-18T20:54:51.341Z",
+  "lastStatus": "success"
+}

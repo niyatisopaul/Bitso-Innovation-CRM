@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "createdAt": "2026-09-18T14:15:00.000Z",
+  "employees": [],
+  "clients": [],
+  "contacts": [],
+  "deals": [],
+  "tickets": [],
+  "activities": [
+    {
+      "id": "act-reg-1790621871250",
+      "department": "it_tech",
+      "type": "meeting",
+      "title": "New Account Registered",
+      "description": "User Tamanna Aggarwal (tamannaagaarwal2007@gmail.com) registered as manager in Bitso Innovation.",
+      "performedBy": "Tamanna Aggarwal",
+      "timestamp": "2026-09-28T18:57:51.250Z"
+    },
+    {
+      "id": "act-genesis",
+      "department": "system",
+      "type": "backup",
+      "title": "Bitso Innovation CRM Initialized",
+      "description": "Clean enterprise department workspace initialized with zero sample records.",
+      "performedBy": "System Administrator",
+      "timestamp": "2026-09-18T14:15:00.000Z"
+    }
+  ],
+  "updatedAt": "2026-09-28T18:57:51.250Z"
+}

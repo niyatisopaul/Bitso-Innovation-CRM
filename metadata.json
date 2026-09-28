@@ -1,0 +1,6 @@
+{
+  "name": "Bitso Innovation - Department CRM",
+  "description": "Enterprise department-based CRM and workforce management platform for Bitso Innovation with multi-department directories, accounts, deals, and disaster recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

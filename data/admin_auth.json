@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "usr-admin-1",
+      "email": "admin@company.com",
+      "name": "System Administrator",
+      "role": "admin",
+      "salt": "enterprise-crm-salt-2026",
+      "passwordHash": "5bc48c39b9a6e7ed91c1066bf9ae13240d8dd15188bfbad9cff31a966e6c17fd",
+      "createdAt": "2026-09-28T17:46:58.309Z",
+      "lastLogin": null
+    },
+    {
+      "id": "usr-1790621871250",
+      "email": "tamannaagaarwal2007@gmail.com",
+      "name": "Tamanna Aggarwal",
+      "role": "manager",
+      "department": "it_tech",
+      "salt": "1b2b9989172635445a1d4dda55e1a9d1",
+      "passwordHash": "67761195af2bab2256c89ff395914874dd7b998488ce7ad1ec035d535715525b",
+      "createdAt": "2026-09-28T18:57:51.250Z",
+      "lastLogin": "2026-09-28T18:57:51.250Z"
+    }
+  ],
+  "activeSessions": {
+    "337feabf20cd32bc186fd8ba31f91b845766770fdc6ac47e98c71d09ad264fc8": {
+      "userId": "usr-1790621871250",
+      "createdAt": "2026-09-28T18:57:51.250Z",
+      "expiresAt": "2026-10-28T18:57:51.250Z"
+    }
+  }
+}
